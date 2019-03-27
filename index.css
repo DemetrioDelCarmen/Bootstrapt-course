@@ -1,0 +1,10 @@
+#footer{
+    
+    background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372)
+    /* background: linear-gradient(141deg, indigo,violet 30%, #1fc8db 40%, #2cb5e8 30%) */
+}
+#footer a{
+
+    color: aliceblue;
+
+}
