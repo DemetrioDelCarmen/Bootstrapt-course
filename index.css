@@ -33,6 +33,16 @@
     z-index: 1;
 }
 
+.section h1 img{
+    height: 61px;
+    width: 55px;
+}
+
+/* 
+.section h1  span{
+    color: #ecc100
+} */
+
 .video-container{
     position: absolute;
     top: 0;
